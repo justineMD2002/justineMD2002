@@ -44,12 +44,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=justineMD2002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E0FF&icon_color=00E0FF" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=justineMD2002&theme=radical&hide_border=true&background=0D1117&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" />
+<img src="https://komarev.com/ghpvc/?username=justineMD2002&label=Profile%20Views&color=00E0FF&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/justineMD2002?tab=followers"><img src="https://img.shields.io/github/followers/justineMD2002?label=Followers&style=for-the-badge&color=00E0FF&labelColor=0D1117&logo=github&logoColor=00E0FF" alt="Followers" /></a>
+<img src="https://img.shields.io/github/stars/justineMD2002?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=00E0FF&labelColor=0D1117&logo=github&logoColor=00E0FF" alt="Total Stars" />
 
-<br/>
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineMD2002&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E0FF" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=justineMD2002&theme=radical&hide_border=true&background=0D1117&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" alt="GitHub Streak" />
 
 </div>
 
