@@ -71,6 +71,7 @@
 ### 🌐 Connect With Me
 
 <p>
+  <a href="https://justinemd.site"><img src="https://img.shields.io/badge/Portfolio-00E0FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
   <a href="https://linkedin.com/in/justinemdaugdaug"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
